@@ -33,7 +33,7 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 * 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
 
 ### OTHER PROJECTS: 
-These are basic projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
+These are projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
 * [Library management system](https://github.com/amartyasanyal12/Practice_files_dump): Basic Library system where user gets to know if a book can be borrowed/ lent or not.
 * [Tic Tac Toe Game](https://github.com/amartyasanyal12/Tic-Tac-Toe.practice): This was made by using pygame module and has a GUI board where one can play.
 * [ATM management system](https://github.com/amartyasanyal12/Practice_files_dump): A program to check one's ATM balance, withdraw or deposit in the bank
