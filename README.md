@@ -12,7 +12,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 
 A snapshot of the project:
 
-![](/dc_density.png) 
+![](/dc_density1.png) 
 ![](/spectral.png) 
 
 ## PROJECT 2
