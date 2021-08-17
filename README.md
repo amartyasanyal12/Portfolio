@@ -16,6 +16,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 
 ## PROJECT 2
 ### [Soccer Performance Analytics (EPL DATASET 18-19, 09-10)](https://github.com/amartyasanyal12/Checkpoint_101)
+Being a huge football(Soccer) fan, this was a keen interest area for me. This project was done using libraries such as **scikit, math, matplotlib** to a name a few
 * Scraped data from various websites using python and selenium-JSON and API files/databases
 * Engineered features from the given database to find out the best perfoming teams in the division based on conversion rate,xG,xA
 * Optimized Linear Regression by composite scoring to get the best model. 
@@ -30,3 +31,9 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 * Standardisation of data, data imputation, scaling data, splitting data into test-train datasets, predicting the house prices
 * Linear regression was done but the scores weren't good enough to achieve maximum efficiency, so other techniques were implemented as well: Logistic regression, XGBoost 
 * 𝑅^2 ,Adjusted 𝑅^2,MAE(Mean of the absolute value of the errors),MSE(Mean square errors),RMSE(Root mean square error) observed and comparison drawn b/w different models.
+
+### OTHER PROJECTS: 
+These are basic projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
+1. **Library management system**: Basic Library system where user gets to know if a book can be borrowed/ lent or not.
+2. **Tic Tac Toe Game**: This was made by using pygame module and has a GUI board where one can play.
+3. **ATM management system**: A program to check one's ATM balance, withdraw or deposit in the bank
