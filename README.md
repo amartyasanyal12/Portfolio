@@ -26,7 +26,7 @@ Being a huge football(Soccer) fan, this was a keen interest area for me. This pr
 A snapshot of the project:
 
 ![](/distribution3.png)
-![](/yellow1.png)
+![](/yellow2.png)
 
 ## PROJECT 3
 ### [House Prices: Advanced Regression Techniques](https://github.com/amartyasanyal12/Regression_techniques)
