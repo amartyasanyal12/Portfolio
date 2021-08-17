@@ -34,6 +34,6 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 
 ### OTHER PROJECTS: 
 These are basic projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
-1. **[Library management system]** (https://github.com/amartyasanyal12/Practice_files_dump): Basic Library system where user gets to know if a book can be borrowed/ lent or not.
-2. **[Tic Tac Toe Game]**(https://github.com/amartyasanyal12/Tic-Tac-Toe.practice): This was made by using pygame module and has a GUI board where one can play.
-3. **[ATM management system]**(https://github.com/amartyasanyal12/Practice_files_dump): A program to check one's ATM balance, withdraw or deposit in the bank
+1. [Library management system](https://github.com/amartyasanyal12/Practice_files_dump): Basic Library system where user gets to know if a book can be borrowed/ lent or not.
+2. [Tic Tac Toe Game](https://github.com/amartyasanyal12/Tic-Tac-Toe.practice): This was made by using pygame module and has a GUI board where one can play.
+3. [ATM management system](https://github.com/amartyasanyal12/Practice_files_dump): A program to check one's ATM balance, withdraw or deposit in the bank
