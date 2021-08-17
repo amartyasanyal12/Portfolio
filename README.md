@@ -26,6 +26,7 @@ Being a huge football(Soccer) fan, this was a keen interest area for me. This pr
 A snapshot of the project:
 
 ![](/distribution3.png)
+
 ![](/yellow2.png)
 
 ## PROJECT 3
