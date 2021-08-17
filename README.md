@@ -2,7 +2,7 @@
 
 ## PROJECT 1
 
-## [Performance Of Banks In India: Analysis Based On POS-ATM Transactions(2018-2019)](https://github.com/amartyasanyal12/Bank_Final)
+## [Performance Of Banks In India: Analysis Based On POS-ATM Transactions(2018-2019)](https://github.com/amartyasanyal12/HDFC_Internship)
 This project was completed during an internship with **HDFC Bank**, wherein the first part of the project required an overview of the performance of banks in terms of ATM-POS transactions in India. The data was scraped from Reserve bank Of India website; the following years were chosen (2018-2019). The focus area for the project was to understand how HDFC Bank could improve it’s Point of Sales (POS) Machine customer retention and also their performance in comparison to private and government banks in India. There are two parts to this project in python: **Data visualization and Main project report.**
 * Engineered features from the dataset to extract per customer purchasing amount for each bank. Segregated the banks based on ownership type and categorized each bank on the basis of their performance.
 * The purpose of this EDA is to find insights which will serve us later in another notebook for Data cleaning/preparation/transformation which will ultimately be used into a machine learning algorithm
@@ -15,7 +15,7 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 ![]
 
 ## PROJECT 2
-### [Soccer Performance Analytics (EPL DATASET 18-19, 09-10)](https://github.com/amartyasanyal12/Checkpoint_101)
+### [Soccer Performance Analytics (EPL DATASET 18-19, 09-10)](https://github.com/amartyasanyal12/football_performance)
 Being a huge football(Soccer) fan, this was a keen interest area for me. This project was done using libraries such as **scikit, math, matplotlib** to a name a few
 * Scraped data from various websites using python and selenium-JSON and API files/databases
 * Engineered features from the given database to find out the best perfoming teams in the division based on conversion rate,xG,xA
@@ -25,7 +25,7 @@ Being a huge football(Soccer) fan, this was a keen interest area for me. This pr
 ![]
 
 ## PROJECT 3
-### House Prices: Advanced Regression Techniques
+### House Prices: Advanced Regression Techniques(https://github.com/amartyasanyal12/Regression_techniques)
 This project was part of an inititiation to kaggle datasets and competitions. The problem statement is to predict the housing prices of a Boston suburb or town. The data is available on the UCI Library. Techniques of data preprocessing is required and then to predict the house prices. I have used multiple techniques such as XGBoost, Linear  regression to find the best fit for the project.
 * Exploratory data analysis, feature engineering, modelling
 * Standardisation of data, data imputation, scaling data, splitting data into test-train datasets, predicting the house prices
@@ -34,6 +34,6 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 
 ### OTHER PROJECTS: 
 These are basic projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
-1. **Library management system**: Basic Library system where user gets to know if a book can be borrowed/ lent or not.
-2. **Tic Tac Toe Game**: This was made by using pygame module and has a GUI board where one can play.
-3. **ATM management system**: A program to check one's ATM balance, withdraw or deposit in the bank
+1. **Library management system** (https://github.com/amartyasanyal12/Practice_files_dump): Basic Library system where user gets to know if a book can be borrowed/ lent or not.
+2. **Tic Tac Toe Game**(https://github.com/amartyasanyal12/Tic-Tac-Toe.practice): This was made by using pygame module and has a GUI board where one can play.
+3. **ATM management system**(https://github.com/amartyasanyal12/Practice_files_dump): A program to check one's ATM balance, withdraw or deposit in the bank
