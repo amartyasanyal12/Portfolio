@@ -40,7 +40,7 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 A snapshot of the project: 
 
 ![](/correlplot.png)
-![](/median_value.png)
+![](/median_value1.png)
 
 ### OTHER PROJECTS: 
 These are projects done on python, to get in-depth knowledge of the language. These are basic starters projects for a beginner to understand code better.
