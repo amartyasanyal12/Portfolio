@@ -1,8 +1,5 @@
 # PORTFOLIO
 
-Social: [Linkedin](www.linkedin.com/in/amartyasanyal8)
-Contact: [amartyasanyal8@gmail.com](amartyasanyal8@gmail.com)
-Address: Kolkata, India
 ## PROJECT 1
 
 ## [Performance Of Banks In India: Analysis Based On POS-ATM Transactions(2018-2019)](https://github.com/amartyasanyal12/HDFC_Internship)
@@ -50,3 +47,9 @@ These are projects done on python, to get in-depth knowledge of the language. Th
 * [Library management system](https://github.com/amartyasanyal12/Practice_files_dump): Basic Library system where user gets to know if a book can be borrowed/ lent or not.
 * [Tic Tac Toe Game](https://github.com/amartyasanyal12/Tic-Tac-Toe.practice): This was made by using pygame module and has a GUI board where one can play.
 * [ATM management system](https://github.com/amartyasanyal12/Practice_files_dump): A program to check one's ATM balance, withdraw or deposit in the bank
+
+
+### Connect Me At:
+Social: [Linkedin](www.linkedin.com/in/amartyasanyal8)
+Email: [Amartya Sanyal](/amartyasanyal8@gmail.com/)
+
