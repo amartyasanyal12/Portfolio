@@ -51,4 +51,5 @@ These are projects done on python, to get in-depth knowledge of the language. Th
 
 ### Connect Me At:
 1. Social: [Linkedin](https://www.linkedin.com/in/amartyasanyal8/)
-2. Email: [Amartya Sanyal](https:/amartyasanyal8@gmail.com/)
+2. Email: amartyasanyal8@gmail.com
+Address: Kolkata, WB, India
