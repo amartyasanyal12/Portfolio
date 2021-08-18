@@ -1,7 +1,8 @@
 # PORTFOLIO
 
-Contact Me At: [Linkedin](www.linkedin.com/in/amartyasanyal8)
-
+Social: [Linkedin](www.linkedin.com/in/amartyasanyal8)
+Contact: [amartyasanyal8@gmail.com](amartyasanyal8@gmail.com)
+Address: Kolkata, India
 ## PROJECT 1
 
 ## [Performance Of Banks In India: Analysis Based On POS-ATM Transactions(2018-2019)](https://github.com/amartyasanyal12/HDFC_Internship)
