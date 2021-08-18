@@ -12,8 +12,8 @@ This project was completed during an internship with **HDFC Bank**, wherein the 
 
 A snapshot of the project:
 
-![](/dc_density1.png) 
-![](/spectral.png) 
+![](/dc_density_1.png) 
+![](/spectral1.png) 
 
 ## PROJECT 2
 ### [Soccer Performance Analytics (EPL DATASET 18-19, 09-10)](https://github.com/amartyasanyal12/football_performance)
