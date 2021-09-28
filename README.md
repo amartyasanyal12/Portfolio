@@ -14,7 +14,7 @@ This project was part of an inititiation to kaggle datasets and competitions. Th
 A snapshot of the project: 
 
 ![](/accuracy_score.png)
-![](/median_value1.png)
+![](/probability_plot.png)
 
 ## PROJECT 2
 
