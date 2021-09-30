@@ -3,7 +3,7 @@
 ## PROJECT 1
 
 ### [Predicting House Prices: Advanced Regression Techniques and Using Choropleth](https://github.com/amartyasanyal12/Regression_techniques/blob/main/USA_housing.ipynb)
-This project was part of an inititiation to kaggle datasets and competitions. The problem statement is to predict the housing prices from suburbs/towns in USA. The data is available in kaggle itself. Techniques of data preprocessing is required and then to predict the house prices. I have used multiple techniques such as XGBoost, Linear  regression, Random Forest to determine the best fit for the project. Used **choropleth** also to determine the density of the US population. 
+This project was part of an initiation to kaggle datasets and competitions. The problem statement is to predict the housing prices from suburbs/towns in USA. The data is available in kaggle itself. Techniques of data preprocessing is required and then to predict the house prices. I have used multiple techniques such as XGBoost, Linear  regression, Random Forest to determine the best fit for the project. Used **choropleth** also to determine the density of the US population. 
 * Exploratory data analysis, data preprocessing/scaling, feature engineering, feature scaling, training models, final score
 * In depth: Standardisation of data, data imputation, scaling data, splitting data into test-train datasets, finding different metrics, predicting the house prices
 * Libraries Used: Seaborn, pandas, Numpy, Math, Scipy, Scikit Learn, Linear Regression, XGBoost, Random Forest, JSON, Chart_Studio, Plotly
